@@ -1,0 +1,6 @@
+opencv-python
+numpy<2
+memory_profiler
+paddlepaddle-gpu
+paddleocr
+easyocr
